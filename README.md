@@ -96,7 +96,7 @@
 
 </p>
 
-# 🚀 Projects
+# 📌 Projects
 
 ### 🧑‍💼 Employee Management System | Flask + MySQL
 • Developed a **full-stack web application** for managing employees.  
