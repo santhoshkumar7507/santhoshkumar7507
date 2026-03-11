@@ -1,16 +1,142 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Santhosh Kumar</h1>
 
-<!--
-**santhoshkumar7507/santhoshkumar7507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer;Aspiring+Full+Stack+Developer;Python+Developer;Open+Source+Contributor;Building+Real+World+Projects"/>
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=santhoshkumar7507&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge&abbreviated=true"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="./coding.gif" width="380" height="300"/>
+</p>
+
+# 👨‍💻 About Me
+
+- 💻 Software Developer passionate about backend development  
+- 🐍 Python developer building scalable applications  
+- 🌍 Interested in **Open Source Contributions**  
+- 📚 Currently learning **Full Stack Development**  
+- 🚀 Building **Real World Projects**
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="210em" src="https://github-readme-stats.vercel.app/api?username=santhoshkumar7507&show_icons=true&theme=radical&count_private=true"/>
+
+</p>
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkumar7507&theme=radical"/>
+
+</p>
+
+# 💻 Languages Used
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumar7507&layout=compact&theme=radical&langs_count=10" height="260"/>
+
+</p>
+
+# ⚡ Tech Stack
+
+### Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="70"/>
+<img src="https://skillicons.dev/icons?i=c" height="70"/>
+<img src="https://skillicons.dev/icons?i=js" height="70"/>
+<img src="https://skillicons.dev/icons?i=html" height="70"/>
+<img src="https://skillicons.dev/icons?i=css" height="70"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="70"/>
+
+</p>
+
+### Frameworks
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react" height="70"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="70"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="70"/>
+<img src="https://skillicons.dev/icons?i=django" height="70"/>
+<img src="https://skillicons.dev/icons?i=flask" height="70"/>
+
+</p>
+
+### Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres" height="70"/>
+<img src="https://skillicons.dev/icons?i=redis" height="70"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="70"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="70"/>
+
+</p>
+
+### Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git" height="60"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+<img src="https://skillicons.dev/icons?i=linux" height="60"/>
+
+<img src="https://img.icons8.com/color/96/rocket.png" height="40" title="Antigravity"/>
+<img src="https://img.icons8.com/color/96/wind.png" height="40" title="Windsurf"/>
+
+</p>
+
+# 🚀 Projects
+
+### 🧑‍💼 Employee Management System | Flask + MySQL
+• Developed a **full-stack web application** for managing employees.  
+• Implemented **CRUD operations**, authentication, and role-based access control.
+
+### 💼 Job Portal Web Application | Flask + SQL
+• Built a **job portal platform** where users can register, login, and apply for jobs.  
+• Implemented an **admin dashboard** to manage job listings.
+
+### 🔗 REST API Project | Flask
+• Developed **RESTful APIs** supporting GET, POST, PUT, DELETE operations.  
+• Added **authentication and structured JSON responses**.  
+• Backend prepared for **future frontend integration**.
+
+# 🌐 Portfolio
+
+https://your-portfolio-link.com
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/santhosh-kumar-s-1934022b7/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:ssksanthoshkumar1433@gmail.com">
+<img src="https://img.icons8.com/color/96/gmail-new.png" height="55"/>
+</a>
+
+<a href="https://github.com/santhoshkumar7507">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://wa.me/91XXXXXXXXXX">
+<img src="https://img.icons8.com/color/96/whatsapp--v1.png" height="55"/>
+</a>
+
+</p>
+
+<p align="center">
+⭐ From <a href="https://github.com/santhoshkumar7507">Santhosh Kumar</a>
+</p>
