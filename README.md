@@ -113,7 +113,7 @@
 
 # 🌐 Portfolio
 
-https://your-portfolio-link.com
+https://sksanthosh-portfolio.netlify.app
 
 # 📫 Connect With Me
 
