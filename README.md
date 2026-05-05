@@ -50,10 +50,13 @@
 
 <img src="https://skillicons.dev/icons?i=python" height="70"/>
 <img src="https://skillicons.dev/icons?i=c" height="70"/>
+<img src="https://skillicons.dev/icons?i=java" height="70"/>
 <img src="https://skillicons.dev/icons?i=js" height="70"/>
 <img src="https://skillicons.dev/icons?i=html" height="70"/>
 <img src="https://skillicons.dev/icons?i=css" height="70"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="70"/>
+<img src="https://skillicons.dev/icons?i=kotlin" height="70"/> 
+
 
 </p>
 
@@ -66,6 +69,7 @@
 <img src="https://skillicons.dev/icons?i=fastapi" height="70"/>
 <img src="https://skillicons.dev/icons?i=django" height="70"/>
 <img src="https://skillicons.dev/icons?i=flask" height="70"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="70"/> 
 
 </p>
 
@@ -77,7 +81,16 @@
 <img src="https://skillicons.dev/icons?i=redis" height="70"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="70"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="70"/>
+<img src="https://skillicons.dev/icons?i=kafka" height="70"/>
 
+</p>
+
+### DevOps & Cloud
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=docker" height="70"/> 
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="70"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="70"/>
 </p>
 
 ### Tools
