@@ -96,18 +96,29 @@
 
 # 📌 Projects
 
-### 🧑‍💼 Employee Management System | Flask + MySQL
-• Developed a **full-stack web application** for managing employees.  
-• Implemented **CRUD operations**, authentication, and role-based access control.
+### 🍔 FoodRush – Food Delivery App
 
-### 💼 Job Portal Web Application | Flask + SQL
-• Built a **job portal platform** where users can register, login, and apply for jobs.  
-• Implemented an **admin dashboard** to manage job listings.
+Tech Stack: MERN Stack, WebSockets
 
-### 🔗 REST API Project | Flask
-• Developed **RESTful APIs** supporting GET, POST, PUT, DELETE operations.  
-• Added **authentication and structured JSON responses**.  
-• Backend prepared for **future frontend integration**.
+- Created an online food ordering system with restaurant listing and order management
+- Implemented real-time order updates and interactive user interface
+- 🔗 Live Demo: https://food-rush-beige.vercel.app/
+
+### 🏥 Healthcare AI Application
+
+Tech Stack: React, FastAPI, PostgreSQL, Machine Learning, AI
+
+- Developed a healthcare system with patient management and AI-based prediction features
+- Integrated ML models with FastAPI backend and built a responsive frontend using React
+- 🔗 Live Demo: https://healthcare-application-two.vercel.app/login.html
+
+### 🛒 E-Commerce Knitwear App
+
+Tech Stack: MERN (MongoDB, Express.js, React, Node.js)
+
+- Developed a full-stack e-commerce platform with user authentication and cart functionality
+- Built RESTful APIs and responsive UI for seamless shopping experience
+- 🔗 Live Demo: https://foreverknitwear.netlify.app/
 
 # 🌐 Portfolio
 
