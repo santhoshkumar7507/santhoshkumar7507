@@ -37,9 +37,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkumar7507&theme=radical"/>
-
+  <img src="https://streak-stats.demolab.com?user=santhoshkumar7507&theme=radical&border_radius=10" alt="GitHub Streak" />
 </p>
 
 # ⚡ Tech Stack
