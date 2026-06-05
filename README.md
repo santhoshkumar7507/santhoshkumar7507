@@ -37,10 +37,15 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkumar7507&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumar7507&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santhoshkumar7507&show_icons=true&theme=radical&cache_seconds=1800" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumar7507&layout=compact&theme=radical&cache_seconds=1800" height="180em"/>
 </p>
 
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=santhoshkumar7507&theme=radical" />
+</p>
 # ⚡ Tech Stack
 
 ### Languages
