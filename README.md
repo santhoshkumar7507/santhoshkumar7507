@@ -34,18 +34,14 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" />
 </div>
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhoshkumar7507&show_icons=true&theme=radical&cache_seconds=1800" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumar7507&layout=compact&theme=radical&cache_seconds=1800" height="180em"/>
-</p>
-
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=santhoshkumar7507&theme=radical" />
+
+<img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=santhoshkumar7507&theme=radical"/>
+
 </p>
+
 # ⚡ Tech Stack
 
 ### Languages
@@ -165,4 +161,4 @@ https://sksanthosh-portfolio.netlify.app
 
 <p align="center">
 ⭐ From <a href="https://github.com/santhoshkumar7507">Santhosh Kumar</a>
-</p>
+</p>in this readme the github streak is not working solve this only change this and give full
