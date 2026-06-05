@@ -34,10 +34,11 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" />
 </div>
 
-# 🔥 GitHub Streak
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=santhoshkumar7507&theme=radical&border_radius=10" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhoshkumar7507&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshkumar7507&layout=compact&theme=radical" />
 </p>
 
 # ⚡ Tech Stack
