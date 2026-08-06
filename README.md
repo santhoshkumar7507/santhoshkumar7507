@@ -116,40 +116,60 @@ santhosh_kumar = {
 <tr>
 <td width="50%">
 
-### 🍔 FoodRush – Food Delivery App
-Tech Stack: **MERN Stack + WebSockets**
-- Online food ordering with real-time order tracking
-- Interactive UI and responsive design
-- [🔗 Live Demo](https://food-rush-beige.vercel.app/)
+### 🎙️ Real-Time Voice Chat Web App
+AI-powered voice chat using **Ollama + FasterWhisper + Kokoro** via WebSockets.
+- ⚡ `<200ms` latency
+- 🎯 `95%` transcription accuracy
+- Real-time streaming responses
 
 </td>
 <td width="50%">
 
-### 🏥 Healthcare AI Application
-Tech Stack: **React + FastAPI + PostgreSQL + ML**
-- AI-based health predictions & patient dashboard
-- Integrated ML models with FastAPI backend
-- [🔗 Live Demo](https://healthcare-application-two.vercel.app/login.html)
+### 🖐️ Hand Gesture Control System
+Touchless HCI using **OpenCV + ML** for gesture recognition.
+- 🤟 `10+` gesture types recognized
+- 🎯 `92%` accuracy
+- Zero hardware dependency
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🛒 E-Commerce Knitwear Platform
-Tech Stack: **MERN Stack (MongoDB, Express, React, Node)**
-- Full-stack e-commerce app with cart & auth
-- RESTful APIs and modern UI
-- [🔗 Live Demo](https://foreverknitwear.netlify.app/)
+### 🖼️ Image Classification System
+**TensorFlow + Flask** web app for real-time image recognition.
+- Live model training via UI
+- REST API deployment
+- Custom dataset support
 
 </td>
 <td width="50%">
 
-### 📱 Full Stack Web Apps & AI Tools
-Custom web apps built with **Python + React + Docker**.
-- Scalable backend architecture
-- AI Integrations & REST APIs
-- Cloud deployment on Vercel/Netlify
+### 🔧 MCP Server (Claude Desktop)
+`stdio`-based MCP server exposing **custom tools for LLMs** through Claude Desktop.
+- Python implementation
+- Tool registration & routing
+- Tested with Claude integration
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 Subscription Manager (React Native)
+Track & manage recurring subscriptions with automated reminders.
+- Expense monitoring dashboard
+- Renewal alerts
+- Organized plan view
+
+</td>
+<td width="50%">
+
+### 🤖 LinkedIn Post Automation
+Automated content pipeline using **n8n + Make.com**.
+- Scheduled social posts
+- Multi-platform workflow
+- Zero manual intervention
 
 </td>
 </tr>
