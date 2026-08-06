@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=180&section=header&text=Santhosh%20Kumar%20S&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MCA%20Student&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=180&section=header&text=Santhosh%20Kumar%20S&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Full-Stack+Web+Apps;Python+%2B+FastAPI+%2B+React;Cloud+%7C+Databases+%7C+AI+Integrations;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Full-Stack+Web+Apps;Python+%2B+FastAPI+%2B+React;AI%2FML+Engineering+%7C+LLMs+%7C+Computer+Vision;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,12 +20,12 @@
 
 ```python
 santhosh_kumar = {
-    "role":       "Full Stack Developer & Software Engineer",
+    "role":       "Full Stack Developer & AI/ML Engineer",
     "education":  "MCA @ Rathinam Technical Campus, Coimbatore",
-    "focus":      ["Python", "FastAPI", "React/Next.js", "Cloud & Databases", "AI Integrations"],
-    "interests":  ["Building Scalable Web Apps", "Automation Workflows", "Open Source"],
+    "focus":      ["Python", "FastAPI", "React/Next.js", "AI/ML Engineering", "Cloud Deployment"],
+    "interests":  ["Building AI-Powered Web Apps", "Automation Workflows", "Open Source"],
     "os":         "Linux 🐧",
-    "ask_me_about": "Full Stack web apps, Python backends, or real-world projects",
+    "ask_me_about": "Full Stack web apps, AI integrations, Python backends, or real-world projects",
 }
 ```
 
@@ -145,10 +145,10 @@ Tech Stack: **MERN Stack (MongoDB, Express, React, Node)**
 </td>
 <td width="50%">
 
-### 📱 Full Stack Web Apps & Tools
+### 📱 Full Stack Web Apps & AI Tools
 Custom web apps built with **Python + React + Docker**.
 - Scalable backend architecture
-- Microservices & REST APIs
+- AI Integrations & REST APIs
 - Cloud deployment on Vercel/Netlify
 
 </td>
