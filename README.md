@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:38bdf8&height=180&section=header&text=Santhosh%20Kumar%20S&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:2e1065,70:6366f1,100:38bdf8&height=180&section=header&text=Santhosh%20Kumar%20S&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <br/>
 
@@ -180,7 +180,7 @@ Custom web apps built with **Python + React + Docker**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a5f,100:0f172a&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,35:6366f1,70:2e1065,100:0d1117&height=100&section=footer" />
 
 *"First, solve the problem. Then, write the code."*
 
