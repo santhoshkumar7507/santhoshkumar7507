@@ -40,70 +40,64 @@
   <img src="https://streak-stats.demolab.com?user=santhoshkumar7507&theme=radical" alt="GitHub Streak"/>
 </p>
 
-# ⚡ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" height="70"/>
-<img src="https://skillicons.dev/icons?i=c" height="70"/>
-<img src="https://skillicons.dev/icons?i=java" height="70"/>
-<img src="https://skillicons.dev/icons?i=js" height="70"/>
-<img src="https://skillicons.dev/icons?i=html" height="70"/>
-<img src="https://skillicons.dev/icons?i=css" height="70"/>
-<img src="https://skillicons.dev/icons?i=tailwind" height="70"/>
-<img src="https://skillicons.dev/icons?i=kotlin" height="70"/> 
-
-
-</p>
-
-### Frameworks
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react" height="70"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="70"/>
-<img src="https://skillicons.dev/icons?i=fastapi" height="70"/>
-<img src="https://skillicons.dev/icons?i=django" height="70"/>
-<img src="https://skillicons.dev/icons?i=flask" height="70"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" height="70"/> 
-
-</p>
-
-### Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres" height="70"/>
-<img src="https://skillicons.dev/icons?i=redis" height="70"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="70"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="70"/>
-<img src="https://skillicons.dev/icons?i=kafka" height="70"/>
-
-</p>
-
-### DevOps & Cloud
-
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=docker" height="70"/> 
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="70"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="70"/>
-</p>
-
-### Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git" height="60"/>
-<img src="https://skillicons.dev/icons?i=github" height="60"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
-<img src="https://skillicons.dev/icons?i=linux" height="60"/>
-
-<img src="https://img.icons8.com/color/96/rocket.png" height="40" title="Antigravity"/>
-<img src="https://img.icons8.com/color/96/wind.png" height="40" title="Windsurf"/>
-
-</p>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Languages</h4>
+      <img src="https://img.shields.io/badge/Python-101414?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" /><br/>
+      <img src="https://img.shields.io/badge/Java-101414?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" /><br/>
+      <img src="https://img.shields.io/badge/C-101414?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" /><br/>
+      <img src="https://img.shields.io/badge/C%2B%2B-101414?style=for-the-badge&logo=cplusplus&logoColor=00599E" alt="C++" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-101414?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /><br/>
+      <img src="https://img.shields.io/badge/SQL-101414?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>Frontend</h4>
+      <img src="https://img.shields.io/badge/React-101414?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br/>
+      <img src="https://img.shields.io/badge/Next.js-101414?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /><br/>
+      <img src="https://img.shields.io/badge/React_Native-101414?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind-101414?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind" /><br/>
+      <img src="https://img.shields.io/badge/HTML5-101414?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>Backend & AI</h4>
+      <img src="https://img.shields.io/badge/FastAPI-101414?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" /><br/>
+      <img src="https://img.shields.io/badge/Flask-101414?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /><br/>
+      <img src="https://img.shields.io/badge/Django-101414?style=for-the-badge&logo=django&logoColor=092E20" alt="Django" /><br/>
+      <img src="https://img.shields.io/badge/TensorFlow-101414?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" /><br/>
+      <img src="https://img.shields.io/badge/OpenCV-101414?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV" /><br/>
+      <img src="https://img.shields.io/badge/Ollama-101414?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Databases</h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-101414?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" /><br/>
+      <img src="https://img.shields.io/badge/MongoDB-101414?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" /><br/>
+      <img src="https://img.shields.io/badge/MySQL-101414?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" /><br/>
+      <img src="https://img.shields.io/badge/SQLite-101414?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" /><br/>
+      <img src="https://img.shields.io/badge/Supabase-101414?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>Cloud & DevOps</h4>
+      <img src="https://img.shields.io/badge/GCP-101414?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="GCP" /><br/>
+      <img src="https://img.shields.io/badge/DigitalOcean-101414?style=for-the-badge&logo=digitalocean&logoColor=0080FF" alt="DigitalOcean" /><br/>
+      <img src="https://img.shields.io/badge/Docker-101414?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" /><br/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-101414?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" /><br/>
+      <img src="https://img.shields.io/badge/Vercel-101414?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>Automation & Tools</h4>
+      <img src="https://img.shields.io/badge/n8n-101414?style=for-the-badge&logo=n8n&logoColor=FF6D5A" alt="n8n" /><br/>
+      <img src="https://img.shields.io/badge/Make.com-101414?style=for-the-badge&logo=make&logoColor=6F00FF" alt="Make.com" /><br/>
+      <img src="https://img.shields.io/badge/Selenium-101414?style=for-the-badge&logo=selenium&logoColor=43B02A" alt="Selenium" /><br/>
+      <img src="https://img.shields.io/badge/Linux-101414?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" /><br/>
+      <img src="https://img.shields.io/badge/VS_Code-101414?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+    </td>
+  </tr>
+</table>
 
 # 📌 Projects
 
@@ -159,4 +153,4 @@ https://sksanthosh-portfolio.netlify.app
 
 <p align="center">
 ⭐ From <a href="https://github.com/santhoshkumar7507">Santhosh Kumar</a>
-</p>in this readme the github streak is not working solve this only change this and give full
+</p>
